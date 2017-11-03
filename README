@@ -1,0 +1,4 @@
+Use: egobchi <options> <input file>
+Options:
+ -lazy-io
+   allow the use of . and , for IO (not standard BitChanger)
